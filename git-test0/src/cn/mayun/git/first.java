@@ -9,6 +9,7 @@ public class first {
 
     public void test(){
         int i =1;
+        int i2 = 2;
     }
 
 }
